@@ -13,6 +13,7 @@
 		41880C7A225E76F90075031E /* concurrencyTest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 41880C78225E76F90075031E /* concurrencyTest.xcdatamodeld */; };
 		41880C7C225E76FA0075031E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41880C7B225E76FA0075031E /* Assets.xcassets */; };
 		41880C7F225E76FA0075031E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41880C7D225E76FA0075031E /* LaunchScreen.storyboard */; };
+		41880C87225E8ABA0075031E /* CalculatePrimeOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41880C86225E8AB90075031E /* CalculatePrimeOperation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		41880C7B225E76FA0075031E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41880C7E225E76FA0075031E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		41880C80225E76FA0075031E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41880C86225E8AB90075031E /* CalculatePrimeOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatePrimeOperation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				41880C71225E76F90075031E /* AppDelegate.swift */,
 				41880C73225E76F90075031E /* ViewController.swift */,
+				41880C86225E8AB90075031E /* CalculatePrimeOperation.swift */,
 				41880C75225E76F90075031E /* Main.storyboard */,
 				41880C7B225E76FA0075031E /* Assets.xcassets */,
 				41880C7D225E76FA0075031E /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41880C87225E8ABA0075031E /* CalculatePrimeOperation.swift in Sources */,
 				41880C7A225E76F90075031E /* concurrencyTest.xcdatamodeld in Sources */,
 				41880C74225E76F90075031E /* ViewController.swift in Sources */,
 				41880C72225E76F90075031E /* AppDelegate.swift in Sources */,
